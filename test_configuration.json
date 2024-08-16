@@ -1,0 +1,9 @@
+{
+
+	"pdf_path":"pdf/edge_case_1.pdf",
+	"toc_pages":[3,4],
+	"output_folder":"output_chapters",
+	"output_chapters":"output_chapters",
+	"token_size_input":32000,
+	"reset_output": "True"
+}
